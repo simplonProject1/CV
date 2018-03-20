@@ -1,0 +1,47 @@
+* {
+	box-sizing: border-box;
+}
+
+nav {
+	border-bottom: 1px solid black;
+}
+
+header {
+	margin-top: 50px;
+}
+
+header h1, header p {
+   text-align: center;
+}
+
+section {
+	background-color: yellow;
+	margin-top: 70px;
+	padding: 50px;
+	border: 2px solid black;
+	font-size: 20px;
+}
+
+#about {
+	min-height: 40vh;
+}
+
+#skills {
+	min-height: 60vh;
+}
+
+#portfolio {
+	min-height: 40vh;
+}
+
+#education {
+	min-height: 30vh;
+}
+
+#availability {
+	min-height: 30vh;
+}
+
+#contact {
+	min-height: 60vh;
+}
